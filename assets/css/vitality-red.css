@@ -293,11 +293,11 @@ header .brand-name-subtext {
   font-weight: 300;
 }
 header .brand-name-subtext-2 {
-  font-size: 20px;
-  line-height: 20px;
-  font-weight: 300;
-  margin-top: 20px;
-  color: #B9B9B9;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    color: #E6E6E6;
 }
 header img {
   max-width: 150px;
@@ -356,11 +356,11 @@ header .scroll-down .btn:hover {
     line-height: 30px;
   }
   header .brand-name-subtext-2 {
-    font-size: 20px;
+  font-size: 20px;
     line-height: 20px;
     font-weight: 300;
     margin-top: 20px;
-    color: #B9B9B9;
+    color: #E6E6E6;
   }
   header img {
     max-width: 300px;
